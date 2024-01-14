@@ -77,6 +77,13 @@ header ul li a{
     letter-spacing: 1px;
     text-decoration: none;
 }
+.content .texbox a:hover{
+    background-color:#fff ;
+    color: #017143;
+    border: 3px solid;
+    border-color:  #017143;
+    font-weight: bold;
+}
 .content .imgbox{
     width: 600px;
     display: flex;
